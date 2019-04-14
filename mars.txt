@@ -2,3 +2,4 @@ mars has nice moons
 hello mars
 mars is red
 
+new line in mars file
