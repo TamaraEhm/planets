@@ -1,5 +1,5 @@
-mars has nice moons - changed by wolfman
+mars has nice moons
 hello mars
 mars is red
 
-new line in mars file
+new line in mars file - changed by wolfman
